@@ -3,7 +3,6 @@ CityVisualizerVR
 
 - Overview
 
-
 The City Visualizer Prototype is an exercise in the potential new types of map viewing and navigation available with the Leap Motion Controller.  The purpose is to explore an interface that allows a user to move, rotate, and zoom a 3d map solely with the tracking and gestures provided with the 2.0+ SDK provided by Leap Motion.
 
 - Controls
